@@ -1,0 +1,22 @@
+,death,infected,intensive_care,city,country,lat,lng
+0,1,41,2,Blekinge,swe,56.166667,15.583333
+1,36,313,18,Dalarna,swe,60.6,15.633333
+2,27,263,19,Gavleborg,swe,60.666667,17.166667
+3,0,16,1,Gotland,swe,57.639617,18.298582
+4,15,180,14,Halland,swe,56.671389,12.855556
+5,0,123,4,Jamtland Harjedalen,swe,63.183333,14.65
+6,24,336,27,Jonkoping,swe,57.783333,14.183333
+7,4,65,8,Kalmar,swe,56.666667,16.366667
+8,1,87,3,Kronoberg,swe,56.883333,14.816667
+9,7,133,15,Norrbotten,swe,65.583333,22.15
+10,5,308,25,Orebro,swe,59.283333,15.216667
+11,32,942,46,Ostergotland,swe,58.416667,15.616667
+12,21,429,33,Skane,swe,55.6,13
+13,83,639,57,Sormland,swe,58.75,17
+14,523,4205,337,Stockholm,swe,59.333333,18.05
+15,30,437,40,Uppsala,swe,59.85,17.633333
+16,1,73,9,Varmland,swe,59.366667,13.5
+17,5,181,14,Vasterbotten,swe,63.833333,20.25
+18,7,100,8,Vasternorrland,swe,62.636111,17.941111
+19,16,298,20,Vastmanland,swe,59.616667,16.55
+20,49,982,89,Vastra Gotaland,swe,57.716667,11.966667
